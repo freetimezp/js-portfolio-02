@@ -51,6 +51,10 @@ export const Banner = () => {
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                             Aspernatur cum eos maxime minus quasi repellat?
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Aspernatur cum eos maxime minus quasi repellat?
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Aspernatur cum eos maxime minus quasi repellat?
                         </p>
                         <button onClick={() => console.log('connect 2')}>Let's connect <ArrowRightCircle size={25} /></button>
                     </Col>
